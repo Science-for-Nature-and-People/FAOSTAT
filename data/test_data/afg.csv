@@ -1,0 +1,782 @@
+Domain Code,Domain,Reporter Country Code,Reporter Countries,Partner Country Code,Partner Countries,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+TM,Detailed trade matrix,2,Afghanistan,9,Argentina,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,9,Argentina,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,198,,Official data
+TM,Detailed trade matrix,2,Afghanistan,9,Argentina,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,315,,Official data
+TM,Detailed trade matrix,2,Afghanistan,1,Armenia,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,141,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,528,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,760,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,885,Cream fresh,2010,2010,tonnes,67,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,10,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,95,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,10,,Official data
+TM,Detailed trade matrix,2,Afghanistan,10,Australia,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,32,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,11,Austria,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,184,,Official data
+TM,Detailed trade matrix,2,Afghanistan,11,Austria,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,1312,,Official data
+TM,Detailed trade matrix,2,Afghanistan,11,Austria,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,21,,Official data
+TM,Detailed trade matrix,2,Afghanistan,11,Austria,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,33,,Official data
+TM,Detailed trade matrix,2,Afghanistan,11,Austria,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,4,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,11,Austria,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,52,Azerbaijan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,4,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,52,Azerbaijan,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,16153,,Official data
+TM,Detailed trade matrix,2,Afghanistan,52,Azerbaijan,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,20926,,Official data
+TM,Detailed trade matrix,2,Afghanistan,52,Azerbaijan,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,3153,,Official data
+TM,Detailed trade matrix,2,Afghanistan,52,Azerbaijan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,88,,Official data
+TM,Detailed trade matrix,2,Afghanistan,16,Bangladesh,5610,Import Quantity,780,Jute,2010,2010,tonnes,26,,Official data
+TM,Detailed trade matrix,2,Afghanistan,16,Bangladesh,5610,Import Quantity,780,Jute,2011,2011,tonnes,111,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,767,Cotton lint,2009,2009,tonnes,53,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,780,Jute,2009,2009,tonnes,197,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,780,Jute,2010,2010,tonnes,236,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,52,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,23,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,124,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,1240,,Official data
+TM,Detailed trade matrix,2,Afghanistan,255,Belgium,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,267,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,11,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,15,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,71,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,44,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,71,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,1877,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,2514,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,5153,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,20,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,15930,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,49500,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,9257,,Official data
+TM,Detailed trade matrix,2,Afghanistan,21,Brazil,5610,Import Quantity,667,Tea,2010,2010,tonnes,179,,Official data
+TM,Detailed trade matrix,2,Afghanistan,27,Bulgaria,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,186,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,1292,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,11,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,28,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,780,Jute,2010,2010,tonnes,43,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,106,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,298,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,226,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,163,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,12,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,215,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,667,Tea,2010,2010,tonnes,53,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,15,Wheat,2010,2010,tonnes,80,,Official data
+TM,Detailed trade matrix,2,Afghanistan,33,Canada,5610,Import Quantity,15,Wheat,2011,2011,tonnes,2933,,Official data
+TM,Detailed trade matrix,2,Afghanistan,96,"China, Hong Kong SAR",5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,28,,Official data
+TM,Detailed trade matrix,2,Afghanistan,96,"China, Hong Kong SAR",5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,29,,Official data
+TM,Detailed trade matrix,2,Afghanistan,96,"China, Hong Kong SAR",5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,98,,Official data
+TM,Detailed trade matrix,2,Afghanistan,96,"China, Hong Kong SAR",5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,50,,Official data
+TM,Detailed trade matrix,2,Afghanistan,96,"China, Hong Kong SAR",5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,96,"China, Hong Kong SAR",5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,103,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,896,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,2090,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,11,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,132,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,316,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,267,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,767,Cotton lint,2009,2009,tonnes,5,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,767,Cotton lint,2010,2010,tonnes,185,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,18,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1062,"Eggs, hen, in shell",2010,2010,tonnes,192,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,238,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1022,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,991,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,780,Jute,2009,2009,tonnes,648,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,780,Jute,2010,2010,tonnes,728,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,780,Jute,2011,2011,tonnes,275,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,867,"Meat, cattle",2009,2009,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,51,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,45,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,103,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,33,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,239,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,62,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,113,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,2586,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,434,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,1625,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,740,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,165,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,600,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,213,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,667,Tea,2009,2009,tonnes,2170,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,667,Tea,2010,2010,tonnes,4467,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,667,Tea,2011,2011,tonnes,6915,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,12,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,15,Wheat,2009,2009,tonnes,263,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,15,Wheat,2010,2010,tonnes,166,,Official data
+TM,Detailed trade matrix,2,Afghanistan,41,"China, mainland",5610,Import Quantity,15,Wheat,2011,2011,tonnes,21476,,Official data
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,327,,Official data
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,10,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,210,,Official data
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,214,"China, Taiwan Province of",5610,Import Quantity,667,Tea,2011,2011,tonnes,23,,Official data
+TM,Detailed trade matrix,2,Afghanistan,44,Colombia,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,2652,,Official data
+TM,Detailed trade matrix,2,Afghanistan,44,Colombia,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,479,,Official data
+TM,Detailed trade matrix,2,Afghanistan,49,Cuba,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,998,,Official data
+TM,Detailed trade matrix,2,Afghanistan,50,Cyprus,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,33,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,2,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,5,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,47,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,204,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,129,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,54,Denmark,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,23,,Official data
+TM,Detailed trade matrix,2,Afghanistan,59,Egypt,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,76,,Official data
+TM,Detailed trade matrix,2,Afghanistan,59,Egypt,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,48,,Official data
+TM,Detailed trade matrix,2,Afghanistan,59,Egypt,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,18,,Official data
+TM,Detailed trade matrix,2,Afghanistan,59,Egypt,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,59,Egypt,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,67,Finland,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,36,,Official data
+TM,Detailed trade matrix,2,Afghanistan,67,Finland,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,188,,Official data
+TM,Detailed trade matrix,2,Afghanistan,67,Finland,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,14,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,3,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,1,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,108,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,128,,Official data
+TM,Detailed trade matrix,2,Afghanistan,68,France,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,114,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,86,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,184,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,660,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,12,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,56,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,92,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,29,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,68,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,399,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,3604,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,183,,Official data
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,16,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,79,Germany,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,84,Greece,5610,Import Quantity,667,Tea,2011,2011,tonnes,19,,Official data
+TM,Detailed trade matrix,2,Afghanistan,89,Guatemala,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,2,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,89,Guatemala,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,89,Guatemala,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,5,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,67,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,55,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,240,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,36,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,135,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,767,Cotton lint,2010,2010,tonnes,151,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,885,Cream fresh,2011,2011,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1062,"Eggs, hen, in shell",2009,2009,tonnes,15308,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1062,"Eggs, hen, in shell",2010,2010,tonnes,6248,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1062,"Eggs, hen, in shell",2011,2011,tonnes,7261,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,733,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1057,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,187,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,780,Jute,2009,2009,tonnes,93,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,780,Jute,2010,2010,tonnes,2169,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,780,Jute,2011,2011,tonnes,82,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,867,"Meat, cattle",2009,2009,tonnes,298,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,206,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,675,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,204,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,340,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,571,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,274,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,609,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,80,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,246,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,1458,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,4075,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,510,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,3893,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,14751,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,31091,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,667,Tea,2009,2009,tonnes,561,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,667,Tea,2010,2010,tonnes,1388,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,667,Tea,2011,2011,tonnes,372,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,129,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,891,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,393,,Official data
+TM,Detailed trade matrix,2,Afghanistan,100,India,5610,Import Quantity,15,Wheat,2010,2010,tonnes,365,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,5,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,82,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,53,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,57,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,56,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,216,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,78,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,667,Tea,2009,2009,tonnes,271,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,667,Tea,2010,2010,tonnes,1725,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,667,Tea,2011,2011,tonnes,2854,,Official data
+TM,Detailed trade matrix,2,Afghanistan,101,Indonesia,5610,Import Quantity,15,Wheat,2010,2010,tonnes,435,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,486,Bananas,2009,2009,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,486,Bananas,2010,2010,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,486,Bananas,2011,2011,tonnes,76,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,1054,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,946,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,2058,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5608,Import Quantity,1057,Chickens,2009,2009,Head,56,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5608,Import Quantity,1057,Chickens,2010,2010,Head,164,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5608,Import Quantity,1057,Chickens,2011,2011,Head,1388,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5609,Import Quantity,1057,Chickens,2009,2009,1000 Head,56,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5609,Import Quantity,1057,Chickens,2010,2010,1000 Head,164,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5609,Import Quantity,1057,Chickens,2011,2011,1000 Head,1388,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,21,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,767,Cotton lint,2009,2009,tonnes,38,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,767,Cotton lint,2010,2010,tonnes,20,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,42,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,885,Cream fresh,2010,2010,tonnes,22,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,885,Cream fresh,2011,2011,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1062,"Eggs, hen, in shell",2009,2009,tonnes,164,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1062,"Eggs, hen, in shell",2010,2010,tonnes,3597,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1062,"Eggs, hen, in shell",2011,2011,tonnes,173,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,3082,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,5414,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,9375,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,780,Jute,2009,2009,tonnes,928,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,780,Jute,2010,2010,tonnes,287,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,780,Jute,2011,2011,tonnes,572,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,5,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,68,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,125,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,171,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,405,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,605,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,62,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2009,2009,tonnes,120,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,45,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,313,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,6222,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,8479,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,3341,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,4298,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,4450,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,667,Tea,2009,2009,tonnes,445,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,667,Tea,2010,2010,tonnes,482,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,667,Tea,2011,2011,tonnes,1717,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,13,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,15,Wheat,2009,2009,tonnes,2352,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,15,Wheat,2010,2010,tonnes,21830,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,15,Wheat,2011,2011,tonnes,2964,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,892,"Yoghurt, concentrated or not",2010,2010,tonnes,24,,Official data
+TM,Detailed trade matrix,2,Afghanistan,102,Iran (Islamic Republic of),5610,Import Quantity,892,"Yoghurt, concentrated or not",2011,2011,tonnes,32,,Official data
+TM,Detailed trade matrix,2,Afghanistan,103,Iraq,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,103,Iraq,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,36,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,80,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,391,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,7,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,54,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,314,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,537,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,481,,Official data
+TM,Detailed trade matrix,2,Afghanistan,104,Ireland,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,39,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,24,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,25,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,95,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,73,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,10,,Official data
+TM,Detailed trade matrix,2,Afghanistan,106,Italy,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,34,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,395,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,452,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,1008,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,803,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,4,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,91,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,227,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,780,Jute,2009,2009,tonnes,76,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,780,Jute,2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,780,Jute,2011,2011,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,121,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,13,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,22,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,122,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,14,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,35,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,36,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,34,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,617,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,15,Wheat,2010,2010,tonnes,533,,Official data
+TM,Detailed trade matrix,2,Afghanistan,110,Japan,5610,Import Quantity,15,Wheat,2011,2011,tonnes,1824,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,137,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,378,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,343,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,375,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,622,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,2372,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,651,Forage products,2010,2010,tonnes,30,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,651,Forage products,2011,2011,tonnes,100,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5608,Import Quantity,1096,Horses,2011,2011,Head,25,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,48,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2009,2009,tonnes,1668,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,313,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,759,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,66,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,167,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,121,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,449,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,60,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,128,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,854198,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,15,Wheat,2010,2010,tonnes,646456,,Official data
+TM,Detailed trade matrix,2,Afghanistan,108,Kazakhstan,5610,Import Quantity,15,Wheat,2011,2011,tonnes,466090,,Official data
+TM,Detailed trade matrix,2,Afghanistan,114,Kenya,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,160,,Official data
+TM,Detailed trade matrix,2,Afghanistan,114,Kenya,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,20,,Official data
+TM,Detailed trade matrix,2,Afghanistan,114,Kenya,5610,Import Quantity,667,Tea,2009,2009,tonnes,3324,,Official data
+TM,Detailed trade matrix,2,Afghanistan,114,Kenya,5610,Import Quantity,667,Tea,2010,2010,tonnes,13266,,Official data
+TM,Detailed trade matrix,2,Afghanistan,114,Kenya,5610,Import Quantity,667,Tea,2011,2011,tonnes,31525,,Official data
+TM,Detailed trade matrix,2,Afghanistan,121,Lebanon,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,154,,Official data
+TM,Detailed trade matrix,2,Afghanistan,121,Lebanon,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,44,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,77,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,441,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,118,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,7,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,106,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,284,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,51,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,232,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,655,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,1595,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,134,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,667,Tea,2009,2009,tonnes,51,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,667,Tea,2010,2010,tonnes,18,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,667,Tea,2011,2011,tonnes,62,,Official data
+TM,Detailed trade matrix,2,Afghanistan,131,Malaysia,5610,Import Quantity,15,Wheat,2011,2011,tonnes,149,,Official data
+TM,Detailed trade matrix,2,Afghanistan,149,Nepal,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,39,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,294,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,318,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,885,Cream fresh,2009,2009,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,126,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,236,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,481,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,636,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,1092,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,120,,Official data
+TM,Detailed trade matrix,2,Afghanistan,150,Netherlands,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,19,,Official data
+TM,Detailed trade matrix,2,Afghanistan,156,New Zealand,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,486,Bananas,2009,2009,tonnes,37558,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,486,Bananas,2010,2010,tonnes,21297,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,486,Bananas,2011,2011,tonnes,27617,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,3899,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,13482,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,34228,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5608,Import Quantity,866,Cattle,2009,2009,Head,4814,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5608,Import Quantity,866,Cattle,2010,2010,Head,454,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5608,Import Quantity,866,Cattle,2011,2011,Head,24,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,901,"Cheese, whole cow milk",2009,2009,tonnes,22,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,19,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5608,Import Quantity,1057,Chickens,2010,2010,Head,3728,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5608,Import Quantity,1057,Chickens,2011,2011,Head,3332,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5609,Import Quantity,1057,Chickens,2010,2010,1000 Head,3728,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5609,Import Quantity,1057,Chickens,2011,2011,1000 Head,3332,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,61,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,88,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,92,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,767,Cotton lint,2009,2009,tonnes,753,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,767,Cotton lint,2010,2010,tonnes,545,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,1032,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,885,Cream fresh,2009,2009,tonnes,257,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,885,Cream fresh,2010,2010,tonnes,509,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,885,Cream fresh,2011,2011,tonnes,2715,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1062,"Eggs, hen, in shell",2009,2009,tonnes,633,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1062,"Eggs, hen, in shell",2010,2010,tonnes,2631,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1062,"Eggs, hen, in shell",2011,2011,tonnes,13201,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,8578,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,6231,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,12941,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,780,Jute,2009,2009,tonnes,597,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,780,Jute,2010,2010,tonnes,572,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,780,Jute,2011,2011,tonnes,414,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,867,"Meat, cattle",2009,2009,tonnes,671,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,947,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,497,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,1800,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,1898,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,1732,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,4761,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,4018,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,19889,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2009,2009,tonnes,25234,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,37476,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,63037,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,2145,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,5425,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,1285,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,2218,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,13191,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,33179,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,667,Tea,2009,2009,tonnes,75,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,667,Tea,2010,2010,tonnes,1116,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,667,Tea,2011,2011,tonnes,2077,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,10,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,44,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,16,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,3673,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,15,Wheat,2010,2010,tonnes,65275,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,15,Wheat,2011,2011,tonnes,160863,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,892,"Yoghurt, concentrated or not",2009,2009,tonnes,105,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,892,"Yoghurt, concentrated or not",2010,2010,tonnes,153,,Official data
+TM,Detailed trade matrix,2,Afghanistan,165,Pakistan,5610,Import Quantity,892,"Yoghurt, concentrated or not",2011,2011,tonnes,93,,Official data
+TM,Detailed trade matrix,2,Afghanistan,171,Philippines,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,14,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,23,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,151,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,33,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,11,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,63,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,42,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,87,,Official data
+TM,Detailed trade matrix,2,Afghanistan,173,Poland,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,80,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,252,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,171,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,657,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,5762,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,3240,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,10038,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,7,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,36,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,57,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,780,Jute,2009,2009,tonnes,48,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,780,Jute,2010,2010,tonnes,28,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,242,,Official data
+TM,Detailed trade matrix,2,Afghanistan,117,Republic of Korea,5610,Import Quantity,667,Tea,2010,2010,tonnes,110,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,22,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,30,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,87,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,171,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,13,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,394,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,360,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,179,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,69,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,15365,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,10667,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,945,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,15,Wheat,2009,2009,tonnes,106863,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,15,Wheat,2010,2010,tonnes,8153,,Official data
+TM,Detailed trade matrix,2,Afghanistan,185,Russian Federation,5610,Import Quantity,15,Wheat,2011,2011,tonnes,3819,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,212,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,6563,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,9449,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,901,"Cheese, whole cow milk",2009,2009,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,205,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,57,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,116,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,885,Cream fresh,2009,2009,tonnes,18,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,885,Cream fresh,2010,2010,tonnes,453,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,885,Cream fresh,2011,2011,tonnes,66,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,1395,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,325,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,266,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,780,Jute,2009,2009,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,780,Jute,2010,2010,tonnes,38,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,780,Jute,2011,2011,tonnes,13,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,38,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,46,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,59,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,36,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,58,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,135,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,15562,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,33013,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,736,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,667,Tea,2009,2009,tonnes,447,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,667,Tea,2010,2010,tonnes,594,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,667,Tea,2011,2011,tonnes,547,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,50,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,5,,Official data
+TM,Detailed trade matrix,2,Afghanistan,194,Saudi Arabia,5610,Import Quantity,15,Wheat,2010,2010,tonnes,112,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,209,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,11,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,35,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,83,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,200,Singapore,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,5,,Official data
+TM,Detailed trade matrix,2,Afghanistan,203,Spain,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,203,Spain,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,14,,Official data
+TM,Detailed trade matrix,2,Afghanistan,203,Spain,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,10,,Official data
+TM,Detailed trade matrix,2,Afghanistan,38,Sri Lanka,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,38,Sri Lanka,5610,Import Quantity,667,Tea,2010,2010,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,38,Sri Lanka,5610,Import Quantity,667,Tea,2011,2011,tonnes,93,,Official data
+TM,Detailed trade matrix,2,Afghanistan,210,Sweden,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,211,Switzerland,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,21,,Official data
+TM,Detailed trade matrix,2,Afghanistan,211,Switzerland,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,211,Switzerland,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,211,Switzerland,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,80,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,29,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,93,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,270,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,304,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5608,Import Quantity,1096,Horses,2010,2010,Head,20,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5608,Import Quantity,1096,Horses,2011,2011,Head,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,780,Jute,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,780,Jute,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,73,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,45,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2009,2009,tonnes,511,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,31,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,213,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,21,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,816,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,667,Tea,2009,2009,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,667,Tea,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,667,Tea,2011,2011,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,90869,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,15,Wheat,2010,2010,tonnes,39073,,Official data
+TM,Detailed trade matrix,2,Afghanistan,208,Tajikistan,5610,Import Quantity,15,Wheat,2011,2011,tonnes,3860,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,581,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,5314,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,18193,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,885,Cream fresh,2010,2010,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,30,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,79,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,31,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,52,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,7,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,72,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,4660,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,318,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,301,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,667,Tea,2011,2011,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,216,Thailand,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,424,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,422,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,2293,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,19,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,12,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,10,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,265,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,671,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,1494,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,780,Jute,2009,2009,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,780,Jute,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,867,"Meat, cattle",2009,2009,tonnes,21,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,97,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,38,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,92,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,230,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,156,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,93,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,34,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,800,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,1759,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,866,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,282,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,667,Tea,2010,2010,tonnes,71,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,667,Tea,2011,2011,tonnes,112,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,15,Wheat,2009,2009,tonnes,13,,Official data
+TM,Detailed trade matrix,2,Afghanistan,223,Turkey,5610,Import Quantity,15,Wheat,2010,2010,tonnes,50,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,31,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,97,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,105,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,224,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,192,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,1535,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,1695,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,667,Tea,2010,2010,tonnes,10,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,4,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,576,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,15,Wheat,2010,2010,tonnes,1277,,Official data
+TM,Detailed trade matrix,2,Afghanistan,213,Turkmenistan,5610,Import Quantity,15,Wheat,2011,2011,tonnes,482,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,5,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,21,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,70,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,35,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,51,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,664,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,828,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,589,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,554,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,811,,Official data
+TM,Detailed trade matrix,2,Afghanistan,230,Ukraine,5610,Import Quantity,15,Wheat,2009,2009,tonnes,4174,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,1040,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,2977,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,7881,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,901,"Cheese, whole cow milk",2011,2011,tonnes,37,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,150,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,308,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,637,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,885,Cream fresh,2010,2010,tonnes,150,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,885,Cream fresh,2011,2011,tonnes,158,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1062,"Eggs, hen, in shell",2011,2011,tonnes,11,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,178,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,257,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,683,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,780,Jute,2009,2009,tonnes,413,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,780,Jute,2010,2010,tonnes,44,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,780,Jute,2011,2011,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,165,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,300,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,82,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,920,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,267,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,1017,"Meat, goat",2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,113,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,153,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,86,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,227,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,435,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,11,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,54,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,188,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,2461,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,8570,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,5054,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,667,Tea,2009,2009,tonnes,94,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,667,Tea,2010,2010,tonnes,442,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,667,Tea,2011,2011,tonnes,175,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,831,Tobacco products nes,2009,2009,tonnes,7,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,52,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,31,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,15,Wheat,2009,2009,tonnes,61,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,15,Wheat,2010,2010,tonnes,638,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,15,Wheat,2011,2011,tonnes,145,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,892,"Yoghurt, concentrated or not",2010,2010,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,225,United Arab Emirates,5610,Import Quantity,892,"Yoghurt, concentrated or not",2011,2011,tonnes,17,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,216,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,122,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,828,Cigarettes,2009,2009,tonnes,34,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,828,Cigarettes,2010,2010,tonnes,98,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,4,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,4,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,113,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,70,,Official data
+TM,Detailed trade matrix,2,Afghanistan,229,United Kingdom,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,14,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,86,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,1051,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,901,"Cheese, whole cow milk",2010,2010,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,828,Cigarettes,2011,2011,tonnes,3,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,767,Cotton lint,2011,2011,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1062,"Eggs, hen, in shell",2011,2011,tonnes,59,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,144,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,68,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,140,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,780,Jute,2010,2010,tonnes,71,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,867,"Meat, cattle",2010,2010,tonnes,525,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,163,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1058,"Meat, chicken",2009,2009,tonnes,20614,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1058,"Meat, chicken",2010,2010,tonnes,32174,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,41677,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,320,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,686,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,898,"Milk, skimmed dried",2011,2011,tonnes,188,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,894,"Milk, whole evaporated",2011,2011,tonnes,29,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,14,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,18,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,168,Sugar confectionery,2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,478,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,164,Sugar refined,2011,2011,tonnes,23,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,0,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,15,Wheat,2009,2009,tonnes,229,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,15,Wheat,2010,2010,tonnes,1433,,Official data
+TM,Detailed trade matrix,2,Afghanistan,231,United States of America,5610,Import Quantity,15,Wheat,2011,2011,tonnes,877,,Official data
+TM,Detailed trade matrix,2,Afghanistan,234,Uruguay,5610,Import Quantity,867,"Meat, cattle",2011,2011,tonnes,25,,Official data
+TM,Detailed trade matrix,2,Afghanistan,234,Uruguay,5610,Import Quantity,1058,"Meat, chicken",2011,2011,tonnes,33,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,626,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,214,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,191,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,1787,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,785,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,651,Forage products,2010,2010,tonnes,631,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,651,Forage products,2011,2011,tonnes,1392,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5608,Import Quantity,1096,Horses,2010,2010,Head,58,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5608,Import Quantity,1096,Horses,2011,2011,Head,10,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,780,Jute,2009,2009,tonnes,15,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,898,"Milk, skimmed dried",2009,2009,tonnes,90,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2009,2009,tonnes,1713,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2010,2010,tonnes,716,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,30,Rice - total  (Rice milled equivalent),2011,2011,tonnes,1504,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,168,Sugar confectionery,2009,2009,tonnes,49,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,164,Sugar refined,2009,2009,tonnes,10310,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,6,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,15,Wheat,2009,2009,tonnes,71435,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,15,Wheat,2010,2010,tonnes,16784,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,15,Wheat,2011,2011,tonnes,18560,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,892,"Yoghurt, concentrated or not",2009,2009,tonnes,40,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,892,"Yoghurt, concentrated or not",2010,2010,tonnes,44,,Official data
+TM,Detailed trade matrix,2,Afghanistan,235,Uzbekistan,5610,Import Quantity,892,"Yoghurt, concentrated or not",2011,2011,tonnes,1,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,633,"Beverages, non alcoholic",2009,2009,tonnes,84,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,633,"Beverages, non alcoholic",2010,2010,tonnes,574,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,633,"Beverages, non alcoholic",2011,2011,tonnes,693,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,1232,Food prep nes,2009,2009,tonnes,13,*,Unofficial figure
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,1232,Food prep nes,2010,2010,tonnes,9,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,1232,Food prep nes,2011,2011,tonnes,141,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,898,"Milk, skimmed dried",2010,2010,tonnes,31,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,168,Sugar confectionery,2010,2010,tonnes,8,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,164,Sugar refined,2010,2010,tonnes,88,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,667,Tea,2009,2009,tonnes,2334,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,667,Tea,2010,2010,tonnes,6939,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,667,Tea,2011,2011,tonnes,16721,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,831,Tobacco products nes,2010,2010,tonnes,2,,Official data
+TM,Detailed trade matrix,2,Afghanistan,237,Viet Nam,5610,Import Quantity,831,Tobacco products nes,2011,2011,tonnes,1,,Official data

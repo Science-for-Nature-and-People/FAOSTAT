@@ -1,0 +1,183 @@
+---
+title: "Exploring FAOSTAT package"
+author: "Gabriel Antunes Daldegan"
+date: "6/30/2017"
+output: html_document
+---
+
+updated by TIMOTHY NGUYEN on 08/01/2017
+
+```{r packages and constants}
+library(readr)
+library(dplyr)
+
+bulk_path <- '/Users/timothy/Documents/FAOSTAT/data/bulk_data'
+test_path <- '/Users/timothy/Documents/FAOSTAT/data/test_data'
+output_path <- '/Users/timothy/Documents/FAOSTAT/data/output'
+#dir_path <- '/home/nguyen/FAOSTAT/data'
+```
+
+# Objective
+The goal is to retrieve data that satisfy the following query criteria:
+- The entire Trade Matrix for 2007 to 2011. 
+- All crops, all countries. 
+- Import quantity (tonnes) is the variable of interest.
+
+## Desired outcome
+FAO has [a web client](http://www.fao.org/faostat/en/#data) that can be used to access their API. I have attempted to acquire our desired data through this client but ran into issues because the resulting dataset was too large for the client to handle. Thus, I had to manually download a comprehensive dataset that contains a detailed trade matrix via their 'bulk download' utility found in the right-hand side of [this page](http://www.fao.org/faostat/en/#data/TM).
+```{r}
+fao_data_path <- file.path(bulk_path, 'comp_trade_matrix.csv')
+system.time(all_fao_data <- read_csv(fao_data_path)) 
+head(all_fao_data)
+desired_columns <- c(1:9, 52:61)
+desired_data <- all_fao_data[all_fao_data$Element == 'Import Quantity', desired_columns]
+head(desired_data)
+```
+
+FAO also offers a normalized version of this dataset:
+```{r}
+fao_data_norm_path <- file.path(bulk_path, 'comp_trade_matrix_norm.csv')
+system.time(all_fao_data_norm <- read_csv(fao_data_norm_path))
+head(all_fao_data_norm)
+desired_years <- c(2007:2011)
+desired_data_norm <-  all_fao_data_norm[all_fao_data_norm$Element == 'Import Quantity' & all_fao_data_norm$Year %in% desired_years,]
+```
+
+### Checking against web client
+I have downloaded a .csv that contains data returned by query criteria: The entire Trade Matrix for 2007 to 2011. All crops, reporting country = afhanistan. Import quantity (tonnes) is the variable of interest.
+```{r}
+afg_path <- file.path(test_path, 'afg.csv')
+true_afg <- read.csv(afg_path)
+
+# discarding extraneous columns
+standard_cols <- colnames(desired_data_norm)
+true_afg <- true_afg %>%
+  select(standard_cols)
+# changing factor -> chars
+true_afg <- data.frame(lapply(true_afg, as.character), stringsAsFactors=FALSE) 
+```
+Here, I subset the bulk_data according to the same criteria:
+```{r}
+test_afg <- desired_data_norm[desired_data_norm$`Reporter.Countries` == 'Afghanistan',]
+test_afg <- data.frame(lapply(test_afg, as.character), stringsAsFactors=FALSE) # changing factor -> chars
+```
+comparing the two dfs reveals that they are not the same
+```{r}
+all.equal(test_afg,true_afg)
+```
+here are the nonequal rows
+```{r}
+row_equal <- function(row_a,row_b){
+  return(sum(row_a == row_b) == 13)
+}
+non_equal_n <- c()
+for (i in c(1:dim(test_afg)[1])){
+  # print(row_equal(test_afg[i,], true_afg[i,]))
+  if (!row_equal(test_afg[i,], true_afg[i,])) {
+    non_equal_n <- c(non_equal_n, i)
+  }
+}
+for (i in non_equal_n) {
+  print('-----------------------')
+  print(test_afg[i,])
+  print(true_afg[i,])
+}
+```
+it appears that the non equal rows are caused by character encoding errors; otherwise, the rows are identical. Thus, the downloaded df and the one I attained by subsetting the bulk data are identical.
+
+Here are more tests:
+data returned by query criteria: 
+- The entire Trade Matrix for 2007 to 2011. 
+- All crops, partner country == egypt. 
+- Import quantity (tonnes) is the variable of interest.
+```{r}
+eg_path <- file.path(test_path, 'egypt.csv')
+true_eg <- read.csv(eg_path)
+
+# discarding extraneous columns
+true_eg <- true_eg %>%
+  select(standard_cols)
+# changing factor -> chars
+true_eg <- data.frame(lapply(true_eg, as.character), stringsAsFactors=FALSE) 
+```
+Here, I subset the bulk_data according to the same criteria:
+```{r}
+test_eg <- desired_data_norm[desired_data_norm$`Partner.Countries` == 'Egypt',]
+test_eg <- data.frame(lapply(test_eg, as.character), stringsAsFactors=FALSE) # changing factor -> chars
+```
+comparing the two dfs reveals that they are not the same
+```{r}
+all.equal(test_eg,true_eg)
+```
+here are the nonequal rows
+```{r}
+eg_non_equal_n <- c()
+for (i in c(1:dim(test_eg)[1])){
+  if (!row_equal(test_eg[i,], true_eg[i,])) {
+    eg_non_equal_n <- c(eg_non_equal_n, i)
+  }
+}
+for (i in eg_non_equal_n) {
+  print('-----------------------')
+  print(test_eg[i,])
+  print(true_eg[i,])
+}
+```
+Again, it appears that the non equal rows are caused by character encoding errors; otherwise, the rows are identical. Thus, the downloaded df and the one I attained by subsetting the bulk data are identical. I think this is enough to say that subsetting the bulk data is a fruitful method.
+
+### outputting desired data
+```{r}
+output_path <- file.path(output_path, 'trade_matrix.csv')
+norm_output_path <- file.path(output_path, 'trade_matrix_normalized.csv')
+
+write.csv(desired_data, output_path)
+write.csv(desired_data_norm, norm_output_path)
+```
+
+
+# The package
+Install and load FAOSTAT package
+
+```{r}
+#install.packages("FAOSTAT")
+library(FAOSTAT)
+```
+
+Lets explore its documentation to better understand what it does
+
+```{r}
+vignette(topic = "FAOSTAT")
+#demo(topic = "FAOSTATdemo")
+#FAOsearch() # Function that allows to interactively choose variables of interest
+```
+
+Here I create two variables which will store the names and codes of all items (soybean, corn, cotton...)
+```{r}
+allItemNames <- FAOmetaTable$itemTable$itemName
+allItemCodes <- FAOmetaTable$itemTable$itemCode
+```
+
+then we filter FAODataBase to build a data frame containing the variables of interest
+```{r}
+trade_matrix <- data.frame(
+  varName = allItemNames,
+  domainCode = "T",
+  itemCode = allItemCodes,
+  elementCode = 5610,
+  stringsAsFactors = FALSE
+)
+```
+
+and apply the data frame to the function that will download the data
+```{r}
+apple_df_lst <- with(
+  trade_matrix[1:10,],
+  getFAOtoSYB(
+    name = varName,
+    domainCode = domainCode,
+    itemCode = itemCode,
+    elementCode = elementCode,
+    useCHMT = TRUE,
+    outputFormat = "long"
+  ))
+```

@@ -1,2 +1,2 @@
 # FAOSTAT
-testing FAOSTAT R package
+exploring the FAO's data querying capabilities through it's web client, R package, and API
